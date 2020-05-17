@@ -1,0 +1,16 @@
+﻿  Framework.cpp
+c:\users\aleks\source\repos\d3d framework\d3d framework\window.h(47): error C4596: GetLeft: недопустимое полное имя в объявлении члена
+c:\users\aleks\source\repos\d3d framework\d3d framework\window.h(48): error C4596: GetTop: недопустимое полное имя в объявлении члена
+c:\users\aleks\source\repos\d3d framework\d3d framework\window.h(49): error C4596: GetWidth: недопустимое полное имя в объявлении члена
+c:\users\aleks\source\repos\d3d framework\d3d framework\window.h(50): error C4596: GetHeight: недопустимое полное имя в объявлении члена
+c:\users\aleks\source\repos\d3d framework\d3d framework\inputmgr.h(3): fatal error C1083: Не удается открыть файл включение: InputCodes.h: No such file or directory,
+  InputMgr.cpp
+c:\users\aleks\source\repos\d3d framework\d3d framework\inputmgr.h(3): fatal error C1083: Не удается открыть файл включение: InputCodes.h: No such file or directory,
+  log.cpp
+  Render.cpp
+  Window.cpp
+c:\users\aleks\source\repos\d3d framework\d3d framework\window.h(47): error C4596: GetLeft: недопустимое полное имя в объявлении члена
+c:\users\aleks\source\repos\d3d framework\d3d framework\window.h(48): error C4596: GetTop: недопустимое полное имя в объявлении члена
+c:\users\aleks\source\repos\d3d framework\d3d framework\window.h(49): error C4596: GetWidth: недопустимое полное имя в объявлении члена
+c:\users\aleks\source\repos\d3d framework\d3d framework\window.h(50): error C4596: GetHeight: недопустимое полное имя в объявлении члена
+c:\users\aleks\source\repos\d3d framework\d3d framework\inputmgr.h(3): fatal error C1083: Не удается открыть файл включение: InputCodes.h: No such file or directory,
